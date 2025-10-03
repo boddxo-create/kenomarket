@@ -1,5 +1,5 @@
 // Пример: перенаправление всего сайта на другой домен
-const newDomain = "https://example.com";
+const newDomain = "https://www.neonapps.ru";
 
 // Собираем новый URL, сохраняя путь и параметры
 const newUrl = newDomain + window.location.pathname + window.location.search + window.location.hash;
